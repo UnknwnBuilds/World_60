@@ -24,7 +24,7 @@
 ---
 
 ## Notes
-This was a commission requested by T, you can thank them for this map. It is available in two versions. What changes is the bottom left, 
+This was a commission requested by T, you can thank them for this map. It is available in two versions. What changes is the bottom left, with one having an isthmus the other being a peninsula.
 
 
 ---
@@ -38,4 +38,4 @@ This was a commission requested by T, you can thank them for this map. It is ava
 
 ## Media
 
-- **Timelapse:** [Youtube][https://youtu.be/vV6MYxiFw74]
+- **Timelapse:** [Youtube](https://youtu.be/KAi1eH6bMsY)
